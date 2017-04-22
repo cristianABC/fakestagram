@@ -79,8 +79,8 @@ class App extends Component {
           <div>
             <img width="100"src={picture.image}/>
               <br/>
-              <img  width="50" src={picture.photoURL}alt={picture.displayName}/>
-              <text>Corazon</text>
+              <img  width="10" src={picture.photoURL}alt={picture.displayName}/>
+              <text>♥</text>
               <br/>
               <span>{picture.displayName}</span> 
           </div>
